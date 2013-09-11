@@ -13,7 +13,7 @@
 #include<netinet/in.h>
 #include<string.h>
 
-/*******************************   STRUCT     ************************************/
+/*******************************   STRUCTURE   ************************************/
 struct MY_HDR
 {
 	// for storing 256 private LAN source IP's
